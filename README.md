@@ -6,10 +6,12 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Java</b>
   - [Praciting DS & Algos in Java](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Firewall Simulation</b>
+  - [Cybersecurity mini project](https://github.com/joshmadakor1/Algorithms-Practice)  
+
 <h2>👨‍💻 Cybersecurity Research Dissertation</h2>
 <h2>📺 Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
