@@ -13,6 +13,8 @@
   - [Cybersecurity mini project](https://github.com/joshmadakor1/Algorithms-Practice)  
 
 <h2>👨‍💻 Cybersecurity Research Dissertation</h2>
+<h2>👨‍💻Comptia Sec+ Notes </h2>
+<h2>👨‍💻SC 900 </h2>
 <h2>📺 Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU) <br>
